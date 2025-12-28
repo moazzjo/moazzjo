@@ -1,5 +1,5 @@
 <div align="center">
-<h2 align="center">Hi, I'm Mouaz Aljomaat</h2>
+<h2 align="center">Hello,&nbsp; I'm Mouaz Aljomaat</h2>
 <h4 align="center">Junior Software Engineer | Backend-Focused Full-Stack Developer</h4>
 </div>
 
@@ -8,14 +8,15 @@
   and modern frontends with <b>React</b> and related technologies.
 </p>
 
-
+<br/>
 
 <div align="center">
-  <img  src="https://media.licdn.com/dms/image/v2/D4D03AQE-g0IxBXSHFw/profile-displayphoto-scale_200_200/B4DZkgIMEWJMAY-/0/1757180653967?e=1767830400&v=beta&t=U6fD3wdx9SVDTZlxbqpNnm2HRcudoqOnFkGJ2T8E1PU" 
-       alt="Mouaz Aljomaat" width="150" style="border-radius:50%;  margin:40px 0;" />
+  <img  src="https://github.com/moazzjo/moazzjo/blob/master/Mojom%20logo%20nbg.png?raw=true" 
+       alt="Mouaz Aljomaat" width="350" style="border-radius:50%;  margin:40px 0;" />
 </div>
 
-
+<br/>
+<br/>
 
 
 
@@ -23,6 +24,9 @@
 
 
 ---
+
+<br/>
+<br/>
 
 ### ⚙️ Engineering Practice
 
@@ -35,9 +39,13 @@ I follow a formal software engineering approach before implementation:
   - Activity Diagrams (business workflows)
   - Sequence Diagrams (system interaction)
   - ER Diagrams (data modeling)
-
+<br/>
+<br/>
 
 ---
+
+<br/>
+<br/>
 
 ### 🛠 Tech Stack
 
@@ -53,8 +61,13 @@ I follow a formal software engineering approach before implementation:
 <p align="center">
 REST APIs • Authentication • PostgreSQL • Docker • Basic UI/UX (Figma)
 </p>
+<br/>
+<br/>
 
 ---
+
+<br/>
+<br/>
 
 ### 📫 Contact
 
@@ -66,3 +79,5 @@ REST APIs • Authentication • PostgreSQL • Docker • Basic UI/UX (Figma)
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+<br/>
+<br/>
