@@ -11,8 +11,8 @@
 <br/>
 
 <div align="center">
-  <img  src="https://github.com/moazzjo/moazzjo/blob/master/Mojom%20logo%20nbg.png?raw=true" 
-       alt="Mouaz Aljomaat" width="350" style="border-radius:50%;  margin:40px 0;" />
+  <img  src="https://media.licdn.com/dms/image/v2/D4D16AQFnka4MVQLgnA/profile-displaybackgroundimage-shrink_350_1400/B4DZumbE08IIAY-/0/1768023676375?e=1769644800&v=beta&t=88U5aXRvaKlBIHBZzfvCZuD91XsIjxRH4e1u-sixlw8" 
+       alt="Mouaz Aljomaat" width="full" style="border-radius:50%;  margin:40px 0;" />
 </div>
 
 <br/>
